@@ -1,5 +1,6 @@
 ---
-
+cover: https://t.mwm.moe/fj
+coverY: 0
 layout:
   cover:
     visible: true
@@ -13,8 +14,10 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
-# 👋 Welcome!
+# Welcome!
+
+## 漫画分享下载
 
